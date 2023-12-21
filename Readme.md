@@ -1,6 +1,6 @@
 # Linux Github
-## 대 제목
-### 소제목
+## ReadMe Plz..
+### 반갑습니다 Linux_Sec 첫 파일입니다.
 안녕하세요 ! .. 이것은 Github 실습용 Readme파일입니다..
 
 >note : Github...
